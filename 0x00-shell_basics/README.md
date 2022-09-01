@@ -1,3 +1,1 @@
-script to print the absolute working directory
-cool
-
+Display current directory contents, including hidden files (starting with .). Use the long format
